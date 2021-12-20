@@ -1,0 +1,27 @@
+.fondo1{
+    background-image: url(./imagenes/fondo1.jpg);
+} 
+
+.fondo2{
+    background-image: url(./imagenes/fondo2.jpg);
+    
+}
+.fondo3{
+    background-image: url(./imagenes/fondo3.png);
+    
+}
+.fondo4{
+    background-image: url(./imagenes/fondo4.jpg);
+    
+}
+.fondo5{
+    background-image: url(./imagenes/fondo5.jpg);
+    
+}
+.fondo6{
+    background-image: url(./imagenes/fondo6.jpg);
+    
+}
+.cen{
+    background-size: 100%;
+}
